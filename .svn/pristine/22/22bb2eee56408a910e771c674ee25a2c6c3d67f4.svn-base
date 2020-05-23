@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/03/10 10:31:21.000.145,C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_SC.dfm</Transaction>
+    <Transaction>2015/03/10 10:31:28.000.929,C:\Users\user\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm</Transaction>
+    <Transaction>2015/03/10 10:31:46.000.786,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\desen\delphi\Kiron_srvServicoLocal\Kiron_srvLocal.dproj</Transaction>
+    <Transaction>2015/03/10 11:04:20.000.115,C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_dmdServico.dfm</Transaction>
+    <Transaction>2015/03/10 11:04:20.000.065,C:\desen\delphi\Kiron_srvServicoLocal\Unt_dmdServico.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm</Transaction>
+    <Transaction>2015/03/10 11:04:38.000.045,C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_dmdServico.dfm</Transaction>
+    <Transaction>2015/03/10 11:04:38.000.015,C:\desen\delphi\Kiron_srvServicoLocal\Unt_dmdServico.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm</Transaction>
+    <Transaction>2015/03/10 11:06:03.000.685,C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_dmdServico.dfm</Transaction>
+    <Transaction>2015/03/10 11:06:03.000.635,C:\desen\delphi\Kiron_srvServicoLocal\Unt_dmdServico.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm</Transaction>
+    <Transaction>2015/03/10 11:07:06.000.285,C:\desen\delphi\Kiron_srvServicoLocal\Unt_SM.dfm=C:\desen\delphi\Kiron_srvServicoLocal\Unt_dmdServico.dfm</Transaction>
+    <Transaction>2018/04/30 10:12:13.000.262,=C:\desen\delphi\Kiron_XE7\Classes\Unt_background.pas</Transaction>
+    <Transaction>2019/03/18 15:28:30.000.367,=C:\desen\DXE7\Base\Utils\supertimezone.pas</Transaction>
+    <Transaction>2019/03/18 15:28:30.000.330,=C:\desen\DXE7\Base\Utils\superobject.pas</Transaction>
+    <Transaction>2019/03/18 15:28:30.000.252,=C:\desen\DXE7\Base\Utils\superdate.pas</Transaction>
+    <Transaction>2019/03/18 15:28:30.000.437,=C:\desen\DXE7\Base\Utils\superxmlparser.pas</Transaction>
+    <Transaction>2019/03/18 15:28:30.000.401,=C:\desen\DXE7\Base\Utils\supertypes.pas</Transaction>
+    <Transaction>2019/03/18 15:33:40.691,=C:\desen\delphi\Kiron_XE7\Classes\Unt_background.pas</Transaction>
+  </Transactions>
+</BorlandProject>

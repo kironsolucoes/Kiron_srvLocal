@@ -1,0 +1,7 @@
+*.exe
+*.dcu
+*.~*
+Win32/
+__history/
+*.zip
+
